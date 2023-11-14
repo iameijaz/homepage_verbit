@@ -1,0 +1,77 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.header-title {
+  font-size: 2em;
+}
+
+.profile-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.username {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.bio {
+  margin-bottom: 15px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+}
+
+p  {
+color: black;
+
+}
+
+.username{
+  color: black;
+}
+
+.blackish{
+color: black;
+}
+
+.borderblack{
+
+  border: 2px solid black;
+}
+
+tr td{
+
+  
+    border: 1px solid black;
+    width: 20%;
+}
+
+
+.center {
+
+  text-align: center;
+  position: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Add any additional styling as per your preference */
